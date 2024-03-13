@@ -1,6 +1,6 @@
 # myproject
 this is test repo
-<hr>
+
 no hash
 # one hash
 ## two hash
